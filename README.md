@@ -261,13 +261,7 @@ plt.show()
 
 | Name | Roll Number | Department |
 |---|---|---|
-| Student Name 1 | Roll No. 1 | Department 1 |
-| Student Name 2 | Roll No. 2 | Department 2 |
-| Student Name 3 | Roll No. 3 | Department 3 |
-| Student Name 4 | Roll No. 4 | Department 4 |
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
+| Aishik Das | 25AI60R23 | Mtech AI |
+| Sarthak Dey | 25AI60R20 | Mtech AI |
+| Ritish Bhatt | 25AI60R11 | Mtech AI |
+| Adarsh Raj | 25AI60R25 | Mtech AI |
